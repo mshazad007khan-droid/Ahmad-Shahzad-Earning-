@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ahmad Shahzad Earning",
+  "description": "A premium Pakistan-focused earning application with versatile plans, easy Easypaisa deposits, and an integrated admin panel to manage plans, deposits, and withdrawal requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
